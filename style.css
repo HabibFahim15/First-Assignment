@@ -69,3 +69,25 @@ h1{
   padding: 35px;
   margin-top: 40px;
 }
+
+.img-background{
+  background-image: url(images/shapes/shape-1.png);
+  background-image: url(images/shapes/shape-2.png);
+  background-image: url(images/shapes/shape-3.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 250px;
+  padding: 35px;
+  margin-top: 40px;
+  margin-left: 40px;
+}
+.margin{
+  margin-top: 40px;
+  padding: 34px;
+}
+#footer-background{
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+  margin: 0px;
+}
